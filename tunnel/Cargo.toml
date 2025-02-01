@@ -1,0 +1,7 @@
+[package]
+name = "tunnel"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tun = "0.7.11"
